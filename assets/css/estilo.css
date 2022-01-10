@@ -37,13 +37,14 @@ body {
 .cabecalho > h2 {
   margin: 0px;
   font-weight: 200;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 .principal {
   grid-area: principal;
   height: calc(100vh - 180px);
   background-color: #f0f0f0;
+  padding: 20px;
 }
 
 .conteudo {
